@@ -476,7 +476,9 @@
                        &kp LGUI  &kp LALT  &kp LCTRL  &mo 3   &kp SPACE         &kp BACKSPACE    &mo 4   &kp ENTER  &kp RCTRL  &kp DELETE
             >;
 
-            sensor-bindings = <&tab_browser>, <&inc_dec_kp RIGHT LEFT>;
+            sensor-bindings =
+                <&inc_dec_kp DOWN_ARROW UP_ARROW>,
+                <&inc_dec_kp RIGHT LEFT>;
         };
 
         qwerty {

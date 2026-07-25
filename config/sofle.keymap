@@ -469,6 +469,7 @@
 
         colemak {
             bindings = <
+            display-name = "BASE";
 &grave_querty  &kp N1  &kp N2    &kp N3    &kp N4     &kp N5                                     &kp N6  &kp N7     &kp N8     &kp N9      &kp N0    &kp MINUS
 &kp ESC        &kp Q   &kp W     &kp F     &kp P      &kp B                                      &kp J   &kp L      &kp U      &kp Y       &kp SEMI  &kp EQUAL
 &kp TAB        &kp A   &kp R     &kp S     &kp T      &kp G                                      &kp M   &kp N      &kp E      &kp I       &kp O     &kp SQT
@@ -482,6 +483,7 @@
         };
 
         qwerty {
+            display-name = "QWERT";
             // ------------------------------------------------------------------------------------------------------------
             // |  ESC  |  1  |  2  |  3   |  4   |  5   |                    |  6   |  7    |  8    |  9   |   0   | DEL   |
             // |  TAB  |  Q  |  W  |  E   |  R   |  T   |                    |  Y   |  U    |  I    |  O   |   P   | BKSPC |
@@ -501,6 +503,7 @@
         };
 
         gaming {
+            display-name = "GAME";
             bindings = <
 &F_colemak  &kp N1     &kp N2        &kp N3    &kp N4  &kp N5                                &kp N6  &kp N7     &kp N8     &kp N9   &kp N0    &kp MINUS
 &kp ESC     &kp T      &kp Q         &kp W     &kp E   &kp R                                 &kp Y   &kp U      &kp I      &kp O    &kp P     &kp EQUAL
@@ -515,6 +518,7 @@
         };
 
         lower_layer {
+            display-name = "SYM";
             // TODO: Some binds are waiting for shifted keycode support.
             // ------------------------------------------------------------------------------------------------------------
             // |    F1 |  F2 |  F3 |  F4  |  F5  |  F6  |                   |  F7  |  F8   |  F9   |  F10 |  F11  |  F12  |
@@ -535,6 +539,7 @@
         };
 
         raise_layer {
+            display-name = "NUM";
             // ------------------------------------------------------------------------------------------------------------
             // |BTCLR| BT1  | BT2  |  BT3  |  BT4  |  BT5 |                | HUE+ |  =  |   /   |   *  |   -   | EFF+ |
             // |BRI+ | PSCR | INS  |   ↑   |   @   |   %  |                | HUE- |  7  |   8   |   9  |   +   | BKSP |
@@ -554,6 +559,7 @@
         };
 
         alt-tab {
+            display-name = "BAD";
             bindings = <
 &alt_tab_leave  &alt_tab_enter  &alt_tab_leave  &alt_tab_leave  &alt_tab_leave  &alt_tab_leave                                    &alt_tab_leave  &alt_tab_leave  &alt_tab_leave  &alt_tab_leave  &alt_tab_leave  &alt_tab_leave
 &alt_tab_leave  &alt_tab_leave  &alt_tab_leave  &alt_tab_leave  &alt_tab_leave  &alt_tab_leave                                    &alt_tab_leave  &alt_tab_leave  &alt_tab_leave  &alt_tab_leave  &alt_tab_leave  &alt_tab_leave

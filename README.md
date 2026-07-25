@@ -1,10 +1,12 @@
 # Sofle_RGB_ZMK
 
 72 LED Sofle RGB using ZMK 3.5
+<img width="1467" height="578" alt="image" src="https://github.com/user-attachments/assets/39c26630-c870-46dc-af33-99029a0fe107" />
+<img width="1404" height="592" alt="image" src="https://github.com/user-attachments/assets/0148ec02-22f6-4418-91da-2baab2af50f3" />
+<img width="1436" height="585" alt="image" src="https://github.com/user-attachments/assets/2fcc3537-e831-4286-b321-201b17f1984d" />
+<img width="1418" height="582" alt="image" src="https://github.com/user-attachments/assets/5dae7439-aae5-4bb4-9ad6-f7005051979b" />
+<img width="1431" height="585" alt="image" src="https://github.com/user-attachments/assets/5d0a6262-c2a1-4436-8dfa-33ac44aa4e15" />
 
-![20230421_005150](https://cdn.discordapp.com/attachments/920124621615923230/1479011645480243231/RemxmDM.jpeg?ex=69aa7c6e&is=69a92aee&hm=0afe5eeb975f00766adf23e38f0503cbc41327a60e5d16f68c4d54881697a13b&)
-
-![keyboard-layout (1)](https://github.com/Preacher325/Sofle_RGB_ZMK/assets/103195644/da32258f-aede-4ab4-9a9b-e10e400d24c1)
 
 Shields: Sofle RGB v2.1 PCB
 
